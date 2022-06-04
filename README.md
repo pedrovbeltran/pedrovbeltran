@@ -8,11 +8,14 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
+  <h1>
+    Hi there 👋
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
-### Hi there 👋
-
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/24753790/171998929-eedd7646-18de-4e84-a05e-00dbb5884e65.png" width="300" height="300"/>
   <img src="https://ih1.redbubble.net/image.243321357.3163/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" width="300" height="300"/>
 </div>
 
