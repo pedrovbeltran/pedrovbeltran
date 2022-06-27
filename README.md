@@ -26,7 +26,6 @@
 - 👨‍🔬 I'm a Physics undergraduate student at UFPE, I'm an electronics technician, so I do love technology and science! 
 - 🔭 I’m currently working on getting this README.md set and done, so soon will be more info ^^
 - 🌱 I’m currently learning *a lot of stuff, actually* 😅, but the main stuff that I'm currently working on are Data Science (mainly with Python, Pandas and scipy), Full-stack stuff, like Angular and Java. One day I shall become a very skilled developer.
-- 
 
 ---
 
