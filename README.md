@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-- 👨‍🔬 I'm a Physics undergraduate student at UFPE, I'm an electronics technician, so I do love technology and science! 
+- 👨‍🔬 I'm a Physics undergraduate student at UFPE and I'm an electronics technician, so I do love technology and science! 
 - 🔭 I’m currently working on improving my skills as a Back-end Developer (specially with .NET and a bit of Angular) and in Data Analysis.
 - 🌱 I’m currently learning *a lot of stuff, actually* 😅, but the main stuff that I'm currently working on are Data Science (mainly with Python, Pandas and scipy) Full-stack stuff, like Angular, C# (.NET) and Java. One day I shall become a very skilled developer.
 
